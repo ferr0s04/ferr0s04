@@ -14,7 +14,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferr0s04&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="stats"/>
 
 <h3 align="left">Most Used Languages:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferr0s04&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="languages" />
 
 <h3 align="left">Contributions:</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferr0s04&theme=tokyonight" alt="streak"/>
