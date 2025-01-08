@@ -15,7 +15,3 @@
 
 <h3 align="left">Most Used Languages:</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferr0s04&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="languages" />
-
-<h3 align="left">Contributions:</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ferr0s04&theme=tokyonight" alt="streak"/>
-
